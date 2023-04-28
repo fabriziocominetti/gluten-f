@@ -1,12 +1,10 @@
-# Gluten F (Free or Fuck?)
+# Gluten F (Free or F***?)
 
-...
+Celiac disease diagnoses are steadily increasing in Italy, and the goal of this project is to analyze the current situation, compare it with the past, and investigate the phenomenon in detail.
 
 ## About
 
 The data were collected by downloading the PDF ["Relazione annuale al Parlamento sulla celiachia - Anno 2021"](https://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?lingua=italiano&id=3308), extracting the tables inside it with Excel in a CSV format ([read more here](https://www.makeuseof.com/easily-extract-table-from-pdf/)).
-
-Starting with a pre-processing phase on the content of tweets, the project continued with a data exploration phase, analyzing the most frequent hashtags and other special features of the collected dataset. Next, sentiment analysis of the tweets was performed.
 
 ## Repository overview
 
